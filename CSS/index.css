@@ -39,6 +39,9 @@ body {
 html {
   overflow-y: scroll;
 }
+ul {
+  list-style-type: none;
+}
 body {
   display: flex;
   justify-content: none;
